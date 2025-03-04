@@ -1,1 +1,2 @@
-# Deep-Learning-Pro1
+# Multiclass Multilabel prediction For stack overflow Questions
+A deep learning project developed using TensorFlow's Keras API, integrating advanced text preprocessing techniques with tools like NLTK, WordCloud, and word_tokenize. Leveraged TensorFlow's Tokenizer and sequence utilities, alongside LSTM, SimpleRNN, and Dense layers with Dropout, BatchNormalization, and Embedding. The goal was to predict tags for given question texts. Utilized LSTM and RNN layers in the model to effectively capture sequential patterns and contextual dependencies within the text data, aiding in accurate prediction of tags for given questions.
